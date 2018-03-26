@@ -22,5 +22,5 @@ mod 'ssh',
   :ref => 'master'
 
 mod 'ntp',
-  :git => 'https://github.com/wardogg369/puppet-ntp.git',
-  ref  => 'master'
+  :git  => 'https://github.com/wardogg369/puppet-ntp.git',
+  :ref  => 'master'
